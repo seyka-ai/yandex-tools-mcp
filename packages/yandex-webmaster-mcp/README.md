@@ -137,6 +137,9 @@ Set the token as `YANDEX_WEBMASTER_TOKEN` environment variable.
 "Are there any SEO problems detected for my site?"
 ```
 
+Hosted version: <a href="https://seyka.ru/developers/mcp/yandex-webmaster" target="_blank">Yandex Webmaster MCP on seyka.ru</a>
+Online usage example: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
+
 ---
 
 ## Русский
@@ -266,6 +269,9 @@ https://oauth.yandex.ru/authorize?response_type=token&client_id=<ClientID>
 ```
 "Есть ли какие-то SEO проблемы на моем сайте?"
 ```
+
+Хостинг-версия: <a href="https://seyka.ru/developers/mcp/yandex-webmaster" target="_blank">Яндекс Вебмастер MCP на seyka.ru</a>
+Онлайн пример использования: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
 
 ---
 

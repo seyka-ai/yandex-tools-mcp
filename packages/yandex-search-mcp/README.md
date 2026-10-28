@@ -100,8 +100,8 @@ Once configured, ask Claude:
 | `page` | number | 0 | Page number for pagination |
 | `familyMode` | string | MODERATE | Content filter: NONE, MODERATE, STRICT |
 
-Hosted version: <a href="https://seyka.ru/developers" target="_blank">Yandex Search on seyka.ru</a>
-Online example: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
+Hosted version: <a href="https://seyka.ru/developers/api/search/yandex" target="_blank">Yandex Search on seyka.ru</a>
+Online usage example: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
 
 ---
 
@@ -196,8 +196,8 @@ claude mcp add yandex-search \
 | `page` | number | 0 | Номер страницы для пагинации |
 | `familyMode` | string | MODERATE | Фильтр контента: NONE, MODERATE, STRICT |
 
-Хостинг-версия: <a href="https://seyka.ru/developers" target="_blank">Yandex Search на seyka.ru</a>
-Онлайн пример: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
+Хостинг-версия: <a href="https://seyka.ru/developers/api/search/yandex" target="_blank">Yandex Search на seyka.ru</a>
+Онлайн пример использования: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
 
 ---
 

@@ -37,7 +37,7 @@ MCP servers for Yandex APIs — search, keyword research, webmaster tools, and w
 }
 ```
 
-> Prefer a hosted tool? Use the managed endpoint at <a href="https://seyka.ru/developers" target="_blank">seyka.ru/developers</a> — no Yandex Cloud credentials to manage.
+> Prefer a hosted tool? Use the managed endpoint at <a href="https://seyka.ru/developers/api/seo/wordstat" target="_blank">seyka.ru/developers/api/seo/wordstat</a> — no Yandex Cloud credentials to manage.
 
 **Yandex Search** (web search):
 
@@ -106,6 +106,8 @@ MCP servers for Yandex APIs — search, keyword research, webmaster tools, and w
 
 See individual package READMEs for detailed setup instructions.
 
+Hosted versions on seyka.ru: <a href="https://seyka.ru/developers/api/search/yandex" target="_blank">Yandex Search</a> · <a href="https://seyka.ru/developers/api/seo/wordstat" target="_blank">Wordstat</a> · <a href="https://seyka.ru/developers/mcp/yandex-webmaster" target="_blank">Webmaster</a> · <a href="https://seyka.ru/developers/mcp/yandex-metrika" target="_blank">Metrika</a>
+
 Online usage example: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
 
 ### Claude Code Plugin
@@ -161,7 +163,7 @@ claude --plugin-dir /path/to/yandex-tools-mcp
 }
 ```
 
-> Нужен готовый инструмент? Используйте размещённый эндпоинт <a href="https://seyka.ru/developers" target="_blank">seyka.ru/developers</a> — без необходимости управлять учётными данными Yandex Cloud.
+> Нужен готовый инструмент? Используйте размещённый эндпоинт <a href="https://seyka.ru/developers/api/seo/wordstat" target="_blank">seyka.ru/developers/api/seo/wordstat</a> — без необходимости управлять учётными данными Yandex Cloud.
 
 **Яндекс Поиск** (веб-поиск):
 
@@ -229,6 +231,8 @@ claude --plugin-dir /path/to/yandex-tools-mcp
 ```
 
 Подробные инструкции по настройке в README каждого пакета.
+
+Хостинг-версии на seyka.ru: <a href="https://seyka.ru/developers/api/search/yandex" target="_blank">Поиск Яндекса</a> · <a href="https://seyka.ru/developers/api/seo/wordstat" target="_blank">Wordstat</a> · <a href="https://seyka.ru/developers/mcp/yandex-webmaster" target="_blank">Вебмастер</a> · <a href="https://seyka.ru/developers/mcp/yandex-metrika" target="_blank">Метрика</a>
 
 Онлайн пример использования: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
 

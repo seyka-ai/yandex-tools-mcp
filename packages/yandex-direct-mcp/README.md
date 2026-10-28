@@ -115,6 +115,8 @@ Once configured, ask Claude:
 - "Show me clicks, cost, and CTR by campaign for last month"
 - "What's my account balance?"
 
+Online usage example: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
+
 ---
 
 ## Русский
@@ -222,6 +224,8 @@ claude mcp add yandex-direct \
 - "Добавь эти ключевые фразы в группу 12345 и установи ставки 15"
 - "Покажи клики, расход и CTR по кампаниям за прошлый месяц"
 - "Какой у меня баланс?"
+
+Онлайн пример использования: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
 
 ---
 

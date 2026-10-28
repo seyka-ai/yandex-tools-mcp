@@ -133,6 +133,9 @@ Once configured, ask Claude:
 - "What devices do visitors use?"
 - "What search phrases bring traffic?"
 
+Hosted version: <a href="https://seyka.ru/developers/mcp/yandex-metrika" target="_blank">Yandex Metrika MCP on seyka.ru</a>
+Online usage example: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
+
 ---
 
 ## Русский
@@ -258,6 +261,9 @@ claude mcp add yandex-metrika \
 - "Откуда мои посетители?"
 - "Какие устройства используют посетители?"
 - "По каким поисковым запросам приходят?"
+
+Хостинг-версия: <a href="https://seyka.ru/developers/mcp/yandex-metrika" target="_blank">Яндекс Метрика MCP на seyka.ru</a>
+Онлайн пример использования: <a href="https://seyka.ru" target="_blank">seyka.ru</a>
 
 ---
 
