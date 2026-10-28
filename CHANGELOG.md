@@ -16,6 +16,11 @@ and each package follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 #### Changed
 - README: the hosted-version link now points to the Yandex Search docs page ([seyka.ru/developers/api/search/yandex](https://seyka.ru/developers/api/search/yandex)).
 
+### yandex-wordstat-mcp — 2.0.3
+
+#### Changed
+- README: the hosted-version link now points to the Wordstat docs page ([seyka.ru/developers/api/seo/wordstat](https://seyka.ru/developers/api/seo/wordstat)).
+
 ## 2026-10-28
 
 ### yandex-direct-mcp — 1.1.0
