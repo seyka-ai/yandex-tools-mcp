@@ -26,6 +26,11 @@ and each package follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 #### Changed
 - README: added links to the hosted version ([seyka.ru/developers/mcp/yandex-webmaster](https://seyka.ru/developers/mcp/yandex-webmaster)) and the online usage example ([seyka.ru](https://seyka.ru)).
 
+### yandex-metrika-mcp — 1.2.3
+
+#### Changed
+- README: added links to the hosted version ([seyka.ru/developers/mcp/yandex-metrika](https://seyka.ru/developers/mcp/yandex-metrika)) and the online usage example ([seyka.ru](https://seyka.ru)).
+
 ## 2026-10-28
 
 ### yandex-direct-mcp — 1.1.0

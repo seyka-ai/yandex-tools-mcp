@@ -21,7 +21,7 @@
     },
     "packages/yandex-metrika-mcp": {
       "name": "yandex-metrika-mcp",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "bin": {
         "yandex-metrika-mcp": "src/index.mjs",
       },
