@@ -161,7 +161,7 @@ async function runServer() {
 
   const server = new McpServer({
     name: 'yandex-wordstat',
-    version: '2.0.1',
+    version: '2.0.2',
   });
 
   // Tool 1: Get Regions Tree
