@@ -4,6 +4,13 @@ All notable changes to the packages in this monorepo are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and each package follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 2026-10-28 (later)
+
+### yandex-direct-mcp — 1.1.1
+
+#### Changed
+- README: added the online usage example link ([seyka.ru](https://seyka.ru)).
+
 ## 2026-10-28
 
 ### yandex-direct-mcp — 1.1.0
