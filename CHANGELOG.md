@@ -11,6 +11,11 @@ and each package follows [Semantic Versioning](https://semver.org/spec/v2.0.0.ht
 #### Changed
 - README: added the online usage example link ([seyka.ru](https://seyka.ru)).
 
+### yandex-search-mcp — 1.3.3
+
+#### Changed
+- README: the hosted-version link now points to the Yandex Search docs page ([seyka.ru/developers/api/search/yandex](https://seyka.ru/developers/api/search/yandex)).
+
 ## 2026-10-28
 
 ### yandex-direct-mcp — 1.1.0
