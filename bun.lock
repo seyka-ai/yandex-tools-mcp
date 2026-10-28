@@ -43,7 +43,7 @@
     },
     "packages/yandex-webmaster-mcp": {
       "name": "yandex-webmaster-mcp",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "bin": {
         "yandex-webmaster-mcp": "src/index.mjs",
       },
